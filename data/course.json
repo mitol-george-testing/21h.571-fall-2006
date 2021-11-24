@@ -1,0 +1,31 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ],
+    [
+      "Society",
+      "Asian Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a5124ee9-c86b-23b8-e945-c3deca35d08f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Making of Modern South Asia",
+  "course_description": "Survey of Indian civilization from 2500 BC to present-day. Traces major political events as well as economic, social, ecological, and cultural developments. Primary and secondary readings enhance understanding of this unique civilization, and shape and improve understanding in analyzing and interpreting historical data. Examines major thematic debates in Indian history through class discussion.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.571",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
